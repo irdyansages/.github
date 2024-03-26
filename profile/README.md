@@ -13,7 +13,7 @@ If the campaign is not (yet) available for your version of Wesnoth, you can clon
 Docker images
 -------------
 
-Besides our user-made content for Wesnoth, we also provide a [docker image of Battle for Wesnoth](https://hub.docker.com/r/konecnyjakub/wesnoth) (though it does not contain the latest stable version yet).
+Besides our user-made content for Wesnoth, we also provide a [docker image of Battle for Wesnoth](https://hub.docker.com/r/konecnyjakub/wesnoth).
 
 People behind Irdyan Sages
 --------------------------
